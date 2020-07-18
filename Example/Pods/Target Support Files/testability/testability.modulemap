@@ -1,0 +1,6 @@
+framework module testability {
+  umbrella header "testability-umbrella.h"
+
+  export *
+  module * { export * }
+}

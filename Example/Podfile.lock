@@ -1,0 +1,16 @@
+PODS:
+  - testability (0.1.0)
+
+DEPENDENCIES:
+  - testability (from `../`)
+
+EXTERNAL SOURCES:
+  testability:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  testability: eb98d140cc5d73f0f6fb47cadc3120553c3f1428
+
+PODFILE CHECKSUM: 63ddd8475770c9d0536d089ca6a4541aa8a62fd6
+
+COCOAPODS: 1.9.3
